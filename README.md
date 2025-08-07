@@ -79,4 +79,3 @@ CycleGAN_Project/
 │   ├── fold1_epoch2_gen_loss.txt
 │
 ├── requirements.txt             # Βιβλιοθήκες που απαιτούνται
----
